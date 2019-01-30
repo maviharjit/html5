@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+<title> Training Videos </title>
+</head>
+
+<body>
+
+<h1> Training Video </h1>
+
+    <!--
+<video width="500" controls>
+    <source src="C:\Users\john\Videos\Sample Videos\SampleVideo_1280x720_1mb.mp4" type="video/mp4">
+</video>
+
+<video width="500" controls>
+    <source src="C:\Users\john\Videos\Sample Videos\SampleVideo_1280x720_5mb.mp4" type="video/mp4">
+</video>
+    
+<video width="500" controls>
+    <source src="C:\Users\john\Videos\Sample Videos\SampleVideo_1280x720_10mb.mp4" type="video/mp4">
+</video>
+    -->
+    
+<video width="500" controls>
+    <source src="C:\Users\john\Videos\Training\Superman session1.mp4" type="video/mp4">
+</video>
+
+<video width="500" controls>
+    <source src="C:\Users\john\Videos\Training\Supersoman session1.mp4" type="video/mp4">
+</video>
+    
+<video width="500" controls>
+    <source src="C:\Users\john\Videos\Training\catwoman session1.mp4" type="video/mp4">
+</video>
+    
+</body>
+
+</html>
